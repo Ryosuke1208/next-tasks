@@ -1,6 +1,7 @@
 import NavList from "./NavList/NavList";
 
 const SideMenu = () => {
+  console.log("サイドメニューがレンダリングされました。");
   return (
     <div className="w-56 pt-8 bg-gray-800 text-white">
       <div>
